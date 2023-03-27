@@ -1,3 +1,1 @@
-Integrantes:
-Raúl Martínez Ballarín
-Daniel Priego Barea
+Integrantes: Raúl Martínez Ballarín, Daniel Priego Barea
